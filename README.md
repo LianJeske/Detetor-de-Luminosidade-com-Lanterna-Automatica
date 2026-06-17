@@ -1,7 +1,4 @@
-# Detetor-de-Luminosidade-com-Lanterna-Automatica
-Aplicativo Android desenvolvido em Kotlin que utiliza o sensor de iluminação ambiente do dispositivo para controlar dinamicamente a interface e acionar a lanterna traseira de forma automática sempre que o ambiente estiver às escuras.
-
-# Detector-de-Luminosidade-com-Lanterna-Automatica
+# Detector de Luminosidade com Lanterna Automatica
 
 Aplicativo Android desenvolvido em Kotlin que utiliza o sensor de luz ambiente do dispositivo para alterar dinamicamente o tema da interface e controlar o acionamento da lanterna traseira de forma automatizada.
 
